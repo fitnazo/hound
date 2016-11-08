@@ -1,0 +1,6 @@
+Style/AlignParameters:
+  Enabled: false
+Style/MultilineOperationIndentation:
+  EnforcedStyle: indented
+Style/FrozenStringLiteralComment:
+ EnforcedStyle: never
